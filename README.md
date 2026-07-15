@@ -16,16 +16,16 @@ A Kotlin/Android project based on the original Accord, which itself is based on 
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,kotlin,py,js)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=c,cs,kotlin,py,js)
 
 **Development**
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,androidstudio,unity,anaconda,docker,git)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=dotnet,androidstudio,unity,anaconda,docker,git)
 
 **Systems**
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,windows)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=linux,arch,windows)
 
 **Databases**
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)
