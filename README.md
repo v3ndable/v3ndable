@@ -14,14 +14,18 @@ A Kotlin/Android project based on the original Accord, which itself is based on 
 
 ## Stack
 
-**Languages**  
-C · C# · Kotlin · Python · JavaScript
+**Languages**
 
-**Development**  
-.NET · Android · Unity · Jupyter · Docker · Git
+[![My Skills](https://skillicons.dev/icons?i=c,cs,kotlin,py,js)](https://skillicons.dev)
 
-**Systems**  
-Linux · Arch Linux · Android Custom ROMs
+**Development**
 
-**Databases**  
-PostgreSQL · MySQL · MariaDB · Microsoft SQL Server
+[![My Skills](https://skillicons.dev/icons?i=dotnet,androidstudio,unity,anaconda,docker,git)](https://skillicons.dev)
+
+**Systems**
+
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,windows)](https://skillicons.dev)
+
+**Databases**
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)](https://skillicons.dev)
