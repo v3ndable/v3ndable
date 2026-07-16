@@ -14,18 +14,24 @@ A Kotlin/Android project based on the original Accord, which itself is based on 
 
 ## Stack
 
-**Languages**
-
-![My Skills](https://skillicons.dev/icons?i=c,cs,kotlin,py,js)
-
-**Development**
-
-![My Skills](https://skillicons.dev/icons?i=dotnet,androidstudio,unity,anaconda,docker,git)
-
-**Systems**
-
-![My Skills](https://skillicons.dev/icons?i=linux,arch,windows)
-
-**Databases**
-
-![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=kotlin" />
+  <img src="https://skillicons.dev/icons?i=py" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+  <img src="https://skillicons.dev/icons?i=unity" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=arch" />
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
