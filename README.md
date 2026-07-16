@@ -21,11 +21,14 @@ A Kotlin/Android project based on the original Accord, which itself is based on 
   <a href="https://dotnet.microsoft.com/languages/csharp">
     <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
   </a>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+  </a>
   <a href="https://kotlinlang.org/">
     <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
   </a>
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
