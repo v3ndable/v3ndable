@@ -15,23 +15,61 @@ A Kotlin/Android project based on the original Accord, which itself is based on 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=cs" />
-  <img src="https://skillicons.dev/icons?i=kotlin" />
-  <img src="https://skillicons.dev/icons?i=py" />
-  <img src="https://skillicons.dev/icons?i=js" />
+  <a href="https://en.cppreference.com/w/c">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  </a>
+  <a href="https://dotnet.microsoft.com/languages/csharp">
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+  </a>
+  <a href="https://kotlinlang.org/">
+    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+
   <br>
-  <img src="https://skillicons.dev/icons?i=dotnet" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" />
-  <img src="https://skillicons.dev/icons?i=unity" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=git" />
+
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+  </a>
+  <a href="https://developer.android.com/studio">
+    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
+  </a>
+  <a href="https://unity.com/">
+    <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+
   <br>
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=arch" />
-  <img src="https://skillicons.dev/icons?i=windows" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=sqlite" />
+
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  </a>
+  <a href="https://archlinux.org/">
+    <img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" />
+  </a>
+  <a href="https://www.microsoft.com/windows">
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  </a>
+  <a href="https://www.sqlite.org/">
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+  </a>
 </p>
