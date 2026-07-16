@@ -1,6 +1,6 @@
 # Vend
 
-My personal GitHub account for experiments, side projects and open-source contributions.
+My personal GitHub account for experiments, side projects and open-source contributions.👾
 
 ## Projects
 
