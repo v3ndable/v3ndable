@@ -11,7 +11,7 @@ A .NET CLI tool for displaying and exploring directory structures in the termina
 A personal development fork of [Accord](https://github.com/emylfy/Accord), an Android music player with an Apple-inspired design. Maintained for my own daily use with small improvements, bug fixes, dependency updates and UI adjustments.
 
 **[PulseAutoColor](https://github.com/v3ndable/PulseAutoColor)**  
-An [LSPosed](https://github.com/LSPosed/LSPosed) module for [Evolution X](https://github.com/Evolution-X) that automatically updates the Pulse visualizer color based on the currently playing album artwork. Hooks SystemUI, extracts the dominant color from media artwork, and applies it to Pulse in real time. Also available through the [Xposed Module Repository](https://github.com/Xposed-Modules-Repo/com.vend.pulseautocolor).
+An [LSPosed](https://github.com/LSPosed) module for [Evolution X](https://github.com/Evolution-X) that automatically updates the Pulse visualizer color based on the currently playing album artwork. Hooks SystemUI, extracts the dominant color from media artwork, and applies it to Pulse in real time. Also available through the [Xposed Module Repository](https://github.com/Xposed-Modules-Repo/com.vend.pulseautocolor).
 
 ## Stack
 
