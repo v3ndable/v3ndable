@@ -8,9 +8,10 @@ My personal GitHub account for experiments, side projects and open-source contri
 A .NET CLI tool for displaying and exploring directory structures in the terminal. Supports recursive traversal, configurable depth, file content output, ignore patterns, plain text exports and colored output.
 
 **[Accord](https://github.com/v3ndable/Accord)**  
-A personal development fork of Accord, an Android music player with an Apple-inspired design. Maintained for my own daily use with small improvements, bug fixes, dependency updates and UI adjustments.
+A personal development fork of [Accord](https://github.com/emylfy/Accord), an Android music player with an Apple-inspired design. Maintained for my own daily use with small improvements, bug fixes, dependency updates and UI adjustments.
 
-A Kotlin/Android project based on the original Accord, which itself is based on Gramophone and AccordLegacy.
+**[PulseAutoColor](https://github.com/v3ndable/PulseAutoColor)**  
+An [LSPosed](https://github.com/LSPosed/LSPosed) module for [Evolution X](https://github.com/Evolution-X) that automatically updates the Pulse visualizer color based on the currently playing album artwork. Hooks SystemUI, extracts the dominant color from media artwork, and applies it to Pulse in real time. Also available through the [Xposed Module Repository](https://github.com/Xposed-Modules-Repo/com.vend.pulseautocolor).
 
 ## Stack
 
